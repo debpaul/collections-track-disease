@@ -11,12 +11,16 @@ The funded series of workshops will bring together representatives from natural 
 Abstract. The COVID-19 pandemic impacted our entire way of life, including how we do science and our understanding of what we need in such situations. The potential role of natural history specimens in pathogen discovery and mitigation is recognized in the museum world (DiEuliis et al. 2016, Dunnum et al., 2017) and by at least some disease ecologists (e.g. Mills and Childs 1998). Renewed efforts to align pathobiology with biodiversity discovery initiatives are critical (Kading and Kingston 2020). Moreover, linking both biodiversity infrastructure and capacity-building more closely to zoonotic (and other) pathogen surveys in biodiverse countries would substantially improve proactive responses to pathogen-related events before they once again wreak havoc across the globe. From a collections and observations point-of-view, what have we learned about our own administrative and scientific processes for gathering and integrating the data and expertise needed, across borders and departments? What problems do our researchers and decision-makers continue to face in addressing the need for access to data, specimens, and expertise for answering key research questions for these events? What new policies and procedures have groups put into place for “next time” or to prevent “next time”? We need to share otherwise tacit or localized experiences so that we can work on how to foster adoption and implementation of practices that change how a local-to-global community ecosystem conducts its science. Please join our session to listen and to add your experiences to inform key elements for moving forward. Our event includes a series of talks, open guided discussion, and graphic recording to capture the conversations visually.
 
 ### Materials from Digital Data 2024
+- Workshop at Digitial Data Conference on 30 May 2024 in Lawrence, KS.
+- Workhops Organizers: Pam Soltis, Deborah Paul, Cody Thompson
 - Agenda in [Google Notes Doc]() short URL https://tinyurl.com/dd8path
 - Speaker Recordings: On the iDigBio YouTube: [all talks from Digital Data 2024 Workshop](https://youtu.be/0zMiYkaUBTI?feature=shared) in one recording.
 - [Discussion Recording](https://youtu.be/1wzTsCwx0KY?feature=shared) on the iDigBio YouTube
 - Graphic Recordings by Courtney Foat
 
 ## Digital Collections Data and Tracking Disease Workshop II
+- Workshop at the American Society of Mammalogists Conference, 9 June 2024 in Boulder, CO.
+- Workshop Organizers: Cody Thompson, Deborah Paul, Pam Soltis
 - Agenda in [Google Notes Doc](https://docs.google.com/document/d/1Wjl2FAji-CJI4mizWgVc0f4-uwJ08UFVno9VPsRS2Q4/edit?usp=sharing) short URL https://tinyurl.com/asm2024path
 - Speaker Recordings
 - Graphic Recordings by Karina Branson
@@ -28,5 +32,13 @@ Abstract. The COVID-19 pandemic impacted our entire way of life, including how w
 
 # Graphic Recording
 From Wikidata: 
-> [Graphic facilitation](https://en.wikipedia.org/wiki/Graphic_facilitation) is the use of a combination of graphics such as diagrams, pictures, symbols, and writing to lead people toward a goal in meetings, seminars, workshops and conferences (Hogan C 2007). The graphics are usually drawn by hand, by a person called a graphic facilitator, who may create the graphics in real time during the event and may work alone or together with another person called a facilitator who aids the discussion (Hogan C 2007, Sibbet D 26 April 2009).
+> [Graphic recording](https://en.wikipedia.org/wiki/Graphic_facilitation) is used to create visual summaries of meeting dialogue or conference speakers' presentations. Key skills of graphic recording include listening to people, thinking about what information is most important in what they have said, organizing the information in a way that can be communicated graphically, and drawing graphics that are visually and emotionally appealing.(Hogan C 2007).
+
+In our events, we wanted to capture our conversations visually. We used them to foster conversation and as tangible outcomes to facilitate a continued conversation through re-use (e. g. t-shirts, presentations, posters, etc). We envision they will provide valuable support in synthesizing the next-steps conversations. We share a few here and give you the links to all of them to use.
+
+Cite CC-BY [Courtney Foat](https://courtney-foat.squarespace.com/#/visual-recording/) 
+Cite CC-BY Karina Branson and/or [ConverSketch](https://www.conversketch.com/)
+
+
+
 
