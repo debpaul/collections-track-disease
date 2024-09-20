@@ -36,8 +36,8 @@ From Wikidata:
 
 In our events, we wanted to capture our conversations visually. We used them to foster conversation and as tangible outcomes to facilitate a continued conversation through re-use (e. g. t-shirts, presentations, posters, etc). We envision they will provide valuable support in synthesizing the next-steps conversations. We share a few here and give you the links to all of them to use.
 
-Cite CC-BY [Courtney Foat](https://courtney-foat.squarespace.com/#/visual-recording/) 
-Cite CC-BY Karina Branson and/or [ConverSketch](https://www.conversketch.com/)
+Cite CC-BY [Courtney Foat](https://courtney-foat.squarespace.com/#/visual-recording/) for Digital Collections Data and Tracking Disease Workshop I  
+Cite CC-BY Karina Branson and/or [ConverSketch](https://www.conversketch.com/) Digital Collections Data and Tracking Disease Workshop II
 
 
 
