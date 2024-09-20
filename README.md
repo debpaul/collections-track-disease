@@ -39,16 +39,16 @@ Abstract. The COVID-19 pandemic impacted our entire way of life, including how w
   - Welcome & Introduction, Cody Thompson, University of Michigan
   - Topic -- A Museum Perspective
     - Museums and Emerging Pathogens in the Americas, [Joe Cook](https://orcid.org/0000-0003-3985-0670), University of New Mexico
-    - Museums and pathogens: Challenges, potential, and management, Adam Ferguson, Field Museum of Natural History
-    - The UX side of extended specimen databases, Kelly Speer, University of Michigan
+    - Museums and pathogens: Challenges, potential, and management, [Adam Ferguson](https://orcid.org/0000-0002-6931-6420), Field Museum of Natural History
+    - The UX side of extended specimen databases, [Kelly Speer](https://orcid.org/0000-0002-8775-7254), University of Michigan
     - Preventing the next viral pandemic via elucidation of mammalian reservoirs, Rick White, University of North Carolina, Charlotte
-    - Scientific collections and public health surveillance: institutional weaknesses and perspectives from Uruguay, Germán Botto Nuñez, Universidad de la República
-    - Building integrated archives for parasite and pathogen discovery, Kurt Galbreath, Northern Michigan University
-    - The Dark Side of the Light: Fireflies, Snails, and Viromes, Oliver Keller, University of Michigan
+    - Scientific collections and public health surveillance: institutional weaknesses and perspectives from Uruguay, [Germán Botto Nuñez](https://orcid.org/0000-0002-4055-9277), Universidad de la República
+    - Building integrated archives for parasite and pathogen discovery, [Kurt Galbreath](https://orcid.org/0000-0002-8065-0833), Northern Michigan University
+    - The Dark Side of the Light: Fireflies, Snails, and Viromes, [Oliver Keller](https://orcid.org/0000-0001-5067-3316), University of Michigan
   - Topic -- Case Studies
-    - Generating Genomic Resources for Bats and their Viruses, Lexi Frank, University of Minnesota
-    - Virome composition in fresh bat guano, frozen and fluid-preserved bat tissues, Verity Mathis, University of Florida
-    - Mammalian diversity, health, and other responses to rapid deforestation in the Interior Atlantic Forest, Noe de la Sancha, DePaul University & Field Museum of Natural History
+    - Generating Genomic Resources for Bats and their Viruses, [Lexi Frank](https://orcid.org/0009-0006-7736-4146), University of Minnesota
+    - Virome composition in fresh bat guano, frozen and fluid-preserved bat tissues, [Verity Mathis](https://orcid.org/0000-0001-6161-9606), University of Florida
+    - Mammalian diversity, health, and other responses to rapid deforestation in the Interior Atlantic Forest, [Noé de la Sancha](https://orcid.org/0000-0002-1342-5556), DePaul University & Field Museum of Natural History
     - Exploring signals of co-diversification among deer mice and Sin Nombre hantavirus, Tommy Herrera, University of California-Berkeley
     - Undercover carriers: rodents as hidden reservoirs for pathogenic fungi transmission, Kailey Mahoney, University of Utah
     - Trypanosoma cruzi surveillance using salvage specimens of Mexican free-tailed bats and raccoons in Texas, Ilana Mosley, Texas A&M University
