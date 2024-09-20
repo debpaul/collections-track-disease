@@ -12,7 +12,7 @@ Abstract. The COVID-19 pandemic impacted our entire way of life, including how w
 
 ### Materials from Digital Data 2024
 - Workshop at Digitial Data Conference on 30 May 2024 in Lawrence, KS.
-- Workhops Organizers: Pam Soltis, Deborah Paul, Cody Thompson
+- Workhops Organizers: [Pam Soltis](https://orcid.org/0000-0001-9310-8659), [Deborah Paul](https://orcid.org/0000-0003-2639-7520), [Cody Thompson](https://orcid.org/0000-0002-6686-6056)
 - Agenda in [Google Notes Doc](https://docs.google.com/document/d/1ml56nlXZ3E_kmsf0ksTJsXEtAKOhsRN3TjnABGbgusU/edit?usp=sharing) short URL https://tinyurl.com/dd8path
 - Speaker Recordings: On the iDigBio YouTube: [all talks from Digital Data 2024 Workshop](https://youtu.be/0zMiYkaUBTI?feature=shared) in one recording.
 - [Discussion Recording](https://youtu.be/1wzTsCwx0KY?feature=shared) on the iDigBio YouTube
@@ -20,11 +20,11 @@ Abstract. The COVID-19 pandemic impacted our entire way of life, including how w
   - Welcome & Introduction, Pam Soltis, University of Florida
   - Topic -- A Museum Perspective
     - Preserve a Voucher Specimen! Tools for Pandemic Preparedness, Cody Thompson, University of Michigan
-    - A harmonized taxonomic resource is critical for accurately interpreting host-pathogen interactions, Kendra Phelps, EcoHealth Alliance
+    - A harmonized taxonomic resource is critical for accurately interpreting host-pathogen interactions, [Kendra Phelps](https://orcid.org/0000-0002-3120-4802), [EcoHealth Alliance](https://www.ecohealthalliance.org/)
   - Topic -- Case Studies
-    - Virome composition in fresh bat guano, frozen and fluid-preserved bat tissues, Verity Mathis, University of Florida
-    - Exploring bat coronaviruses using the FMNH cryo collection, Molly McDonough, Chicago State University & Field Museum
-    - Targeted sequencing of pathogen DNA from museum specimens, Neal Platt, Texas Biomedical Research Institute
+    - Virome composition in fresh bat guano, frozen and fluid-preserved bat tissues, [Verity Mathis](https://orcid.org/0000-0001-6161-9606), University of Florida
+    - Exploring bat coronaviruses using the FMNH cryo collection, [Molly McDonough](https://orcid.org/0000-0002-4890-7993), Chicago State University & Field Museum
+    - Targeted sequencing of pathogen DNA from museum specimens, [Neal Platt](https://orcid.org/0000-0002-9754-5765), Texas Biomedical Research Institute
     - Preventing the next viral pandemic via elucidation of mammalian reservoirs, Rick White, University of North Carolina-Charlotte
   - Topic -- Discussion & Synthesis
     - Deb Paul, Prairie Research Institute, Illinois Natural History Survey, Species File Group
@@ -38,7 +38,7 @@ Abstract. The COVID-19 pandemic impacted our entire way of life, including how w
 - Topics, Talks, and Speakers
   - Welcome & Introduction, Cody Thompson, University of Michigan
   - Topic -- A Museum Perspective
-    - Museums and Emerging Pathogens in the Americas, Joe Cook, University of New Mexico
+    - Museums and Emerging Pathogens in the Americas, [Joe Cook](https://orcid.org/0000-0003-3985-0670), University of New Mexico
     - Museums and pathogens: Challenges, potential, and management, Adam Ferguson, Field Museum of Natural History
     - The UX side of extended specimen databases, Kelly Speer, University of Michigan
     - Preventing the next viral pandemic via elucidation of mammalian reservoirs, Rick White, University of North Carolina, Charlotte
