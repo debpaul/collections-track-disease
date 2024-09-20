@@ -13,7 +13,7 @@ Abstract. The COVID-19 pandemic impacted our entire way of life, including how w
 ### Materials from Digital Data 2024
 - Workshop at Digitial Data Conference on 30 May 2024 in Lawrence, KS.
 - Workhops Organizers: Pam Soltis, Deborah Paul, Cody Thompson
-- Agenda in [Google Notes Doc]() short URL https://tinyurl.com/dd8path
+- Agenda in [Google Notes Doc](https://docs.google.com/document/d/1ml56nlXZ3E_kmsf0ksTJsXEtAKOhsRN3TjnABGbgusU/edit?usp=sharing) short URL https://tinyurl.com/dd8path
 - Speaker Recordings: On the iDigBio YouTube: [all talks from Digital Data 2024 Workshop](https://youtu.be/0zMiYkaUBTI?feature=shared) in one recording.
 - [Discussion Recording](https://youtu.be/1wzTsCwx0KY?feature=shared) on the iDigBio YouTube
 - Graphic Recordings by Courtney Foat
