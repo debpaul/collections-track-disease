@@ -51,7 +51,7 @@ Abstract. The COVID-19 pandemic impacted our entire way of life, including how w
     - Mammalian diversity, health, and other responses to rapid deforestation in the Interior Atlantic Forest, [Noé de la Sancha](https://orcid.org/0000-0002-1342-5556), DePaul University & Field Museum of Natural History
     - Exploring signals of co-diversification among deer mice and Sin Nombre hantavirus, Tommy Herrera, University of California-Berkeley
     - Undercover carriers: rodents as hidden reservoirs for pathogenic fungi transmission, [Kailey Mahoney](https://orcid.org/0009-0002-0492-5687), University of Utah
-    - Trypanosoma cruzi surveillance using salvage specimens of Mexican free-tailed bats and raccoons in Texas, Ilana Mosley, Texas A&M University
+    - _Trypanosoma cruzi_ surveillance using salvage specimens of Mexican free-tailed bats and raccoons in Texas, Ilana Mosley, Texas A&M University
     - Surveillance, prevention, and control of viral zoonoses among mammals in a OneHealth context, Charles Ruprecht, Auburn University
     - MoMaP: An interactive map for visualizing Mongolian mammals and parasites, [Litsa Wooten](https://orcid.org/0009-0009-5668-4775), University of New Mexico
   - Topic -- Discussion & Synthesis
