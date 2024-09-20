@@ -28,7 +28,7 @@ Abstract. The COVID-19 pandemic impacted our entire way of life, including how w
     - Preventing the next viral pandemic via elucidation of mammalian reservoirs, Rick White, University of North Carolina-Charlotte
   - Topic -- Discussion & Synthesis
     - Deb Paul, Prairie Research Institute, Illinois Natural History Survey, Species File Group
-- Graphic Recordings by Courtney Foat
+- Graphic Recordings by [Courtney Foat](https://www.linkedin.com/in/courtney-foat-56811134/)
 
 ## Digital Collections Data and Tracking Disease Workshop II
 - Workshop at the American Society of Mammalogists Conference, 9 June 2024 in Boulder, CO.
