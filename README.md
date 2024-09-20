@@ -27,7 +27,7 @@ Abstract. The COVID-19 pandemic impacted our entire way of life, including how w
     - Targeted sequencing of pathogen DNA from museum specimens, Neal Platt, Texas Biomedical Research Institute
     - Preventing the next viral pandemic via elucidation of mammalian reservoirs, Rick White, University of North Carolina-Charlotte
   - Topic -- Discussion & Synthesis
-  - Deb Paul, Prairie Research Institute, Illinois Natural History Survey, Species File Group
+    - Deb Paul, Prairie Research Institute, Illinois Natural History Survey, Species File Group
 - Graphic Recordings by Courtney Foat
 
 ## Digital Collections Data and Tracking Disease Workshop II
@@ -35,6 +35,27 @@ Abstract. The COVID-19 pandemic impacted our entire way of life, including how w
 - Workshop Organizers: Cody Thompson, Deborah Paul, Pam Soltis
 - Agenda in [Google Notes Doc](https://docs.google.com/document/d/1Wjl2FAji-CJI4mizWgVc0f4-uwJ08UFVno9VPsRS2Q4/edit?usp=sharing) short URL https://tinyurl.com/asm2024path
 - Speaker Recordings
+- Topics, Talks, and Speakers
+  - Welcome & Introduction, Cody Thompson, University of Michigan
+  - Topic -- A Museum Perspective
+    - Museums and Emerging Pathogens in the Americas, Joe Cook, University of New Mexico
+    - Museums and pathogens: Challenges, potential, and management, Adam Ferguson, Field Museum of Natural History
+    - The UX side of extended specimen databases, Kelly Speer, University of Michigan
+    - Preventing the next viral pandemic via elucidation of mammalian reservoirs, Rick White, University of North Carolina, Charlotte
+    - Scientific collections and public health surveillance: institutional weaknesses and perspectives from Uruguay, Germán Botto Nuñez, Universidad de la República
+    - Building integrated archives for parasite and pathogen discovery, Kurt Galbreath, Northern Michigan University
+    - The Dark Side of the Light: Fireflies, Snails, and Viromes, Oliver Keller, University of Michigan
+  - Topic -- Case Studies
+    - Generating Genomic Resources for Bats and their Viruses, Lexi Frank, University of Minnesota
+    - Virome composition in fresh bat guano, frozen and fluid-preserved bat tissues, Verity Mathis, University of Florida
+    - Mammalian diversity, health, and other responses to rapid deforestation in the Interior Atlantic Forest, Noe de la Sancha, DePaul University & Field Museum of Natural History
+    - Exploring signals of co-diversification among deer mice and Sin Nombre hantavirus, Tommy Herrera, University of California-Berkeley
+    - Undercover carriers: rodents as hidden reservoirs for pathogenic fungi transmission, Kailey Mahoney, University of Utah
+    - Trypanosoma cruzi surveillance using salvage specimens of Mexican free-tailed bats and raccoons in Texas, Ilana Mosley, Texas A&M University
+    - Surveillance, prevention, and control of viral zoonoses among mammals in a One Health context, Charles Ruprecht, Auburn University
+    - MoMaP: An interactive map for visualizing Mongolian mammals and parasites, Litsa Wooten, University of New Mexico
+  - Topic -- Discussion & Synthesis
+    - Deb Paul, Prairie Research Institute, Illinois Natural History Survey, Species File Group
 - Graphic Recordings by Karina Branson
 
 # Presentations
