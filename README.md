@@ -26,7 +26,7 @@ Abstract. The COVID-19 pandemic impacted our entire way of life, including how w
     - Exploring bat coronaviruses using the FMNH cryo collection, [Molly McDonough](https://orcid.org/0000-0002-4890-7993), Chicago State University & Field Museum
     - Targeted sequencing of pathogen DNA from museum specimens, [Neal Platt](https://orcid.org/0000-0002-9754-5765), Texas Biomedical Research Institute
     - Preventing the next viral pandemic via elucidation of mammalian reservoirs, Rick White, University of North Carolina-Charlotte
-  - Additional Speakers at Digital Data 8
+  - Additional Topics / Speakers at Digital Data 8
     - Visualizing Mongolian Mammal Specimens and their Parasites Through Time, Litsa Wooten
     - Hosts, parasites, and microbiomes: A system for studying natural complexity in a changing world, Kelly Speer
   - Topic -- Discussion & Synthesis
