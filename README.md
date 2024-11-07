@@ -70,7 +70,7 @@ Abstract. The COVID-19 pandemic impacted our entire way of life, including how w
 From Wikidata: 
 > [Graphic recording](https://en.wikipedia.org/wiki/Graphic_facilitation) is used to create visual summaries of meeting dialogue or conference speakers' presentations. Key skills of graphic recording include listening to people, thinking about what information is most important in what they have said, organizing the information in a way that can be communicated graphically, and drawing graphics that are visually and emotionally appealing. (Hogan C 2007).
 
-In our events, we wanted to capture our conversations visually. We used them to foster conversation and as tangible outcomes to facilitate a continued conversation through re-use (e. g. t-shirts, presentations, posters, reporting, etc). We envision they will provide valuable support in synthesizing the potential next-steps conversations. We share a few here and give you the links to all of them to use.
+In our events, we wanted to capture our conversations visually. We used them to foster conversation and as tangible outcomes to facilitate a continued conversation through re-use (e. g. t-shirts, presentations, posters, reporting, etc). We envision they will provide valuable support in synthesizing the potential next-steps conversations. We share a few here and give you the links to all of them to use. You can find ALL of them in the Zenodo Community [Data, Infrastructure, Museum Collections and Expertise to Track Disease (DICE)](https://zenodo.org/communities/collections-track-disease/records)
 
 ## Graphic Recording Examples
 The summary **public health discussion** at our Digital Collections Data and Tracking Disease Workshop I as captured and illustrated by Courtney Foat. 
@@ -78,7 +78,13 @@ The summary **public health discussion** at our Digital Collections Data and Tra
 ![Public_Health_Perspective](https://github.com/user-attachments/assets/5673e3ce-f23f-4048-8356-2c440fe8d061)
 Foat, C. (2024). Graphic Illustration of Workshop Discussion Synthesis: A Public Health Perspective. Digital Data Conference 2024 (DD8), University of Kansas Biodiversity Institute, Lawrence, KS. Zenodo. https://doi.org/10.5281/zenodo.13905660
 
-Cite CC-BY [Courtney Foat](https://courtney-foat.squarespace.com/#/visual-recording/) for Digital Collections Data and Tracking Disease Workshop I  
+Cite CC-BY [Courtney Foat](https://courtney-foat.squarespace.com/#/visual-recording/) for any Digital Collections Data and Tracking Disease Workshop I graphics. (see [Data, Infrastructure, Museum Collections and Expertise to Track Disease (DICE)](https://zenodo.org/communities/collections-track-disease/records)
+
+The
+
+![ConverSketch_ASM 2024_Museum Perspective_smaller](https://github.com/user-attachments/assets/da0351d4-243a-49b1-8d46-e04902d22d5b)
+
+
 Cite CC-BY Karina Branson and/or [ConverSketch](https://www.conversketch.com/) Digital Collections Data and Tracking Disease Workshop II
 
 # Zenodo Archive Resources
