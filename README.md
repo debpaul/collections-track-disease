@@ -72,6 +72,13 @@ From Wikidata:
 
 In our events, we wanted to capture our conversations visually. We used them to foster conversation and as tangible outcomes to facilitate a continued conversation through re-use (e. g. t-shirts, presentations, posters, reporting, etc). We envision they will provide valuable support in synthesizing the potential next-steps conversations. We share a few here and give you the links to all of them to use.
 
+## Graphic Recording Examples
+The summary **public health discussion** at our Digital Collections Data and Tracking Disease Workshop I as illustrated by Courtney Foat. 
+https://zenodo.org/records/13905660 
+https://zenodo.org/api/iiif/record:13905660:Public_Health_Perspective.pdf/full/400,/0/default.pdf
+
+https://zenodo.org/records/13905660/files/Public_Health_Perspective.pdf?download=1
+
 Cite CC-BY [Courtney Foat](https://courtney-foat.squarespace.com/#/visual-recording/) for Digital Collections Data and Tracking Disease Workshop I  
 Cite CC-BY Karina Branson and/or [ConverSketch](https://www.conversketch.com/) Digital Collections Data and Tracking Disease Workshop II
 
