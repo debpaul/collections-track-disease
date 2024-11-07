@@ -78,14 +78,13 @@ The summary **public health discussion** at our Digital Collections Data and Tra
 ![Public_Health_Perspective](https://github.com/user-attachments/assets/5673e3ce-f23f-4048-8356-2c440fe8d061)
 Foat, C. (2024). Graphic Illustration of Workshop Discussion Synthesis: A Public Health Perspective. Digital Data Conference 2024 (DD8), University of Kansas Biodiversity Institute, Lawrence, KS. Zenodo. https://doi.org/10.5281/zenodo.13905660
 
-Cite CC-BY [Courtney Foat](https://courtney-foat.squarespace.com/#/visual-recording/) for any Digital Collections Data and Tracking Disease Workshop I graphics. (see [Data, Infrastructure, Museum Collections and Expertise to Track Disease (DICE)](https://zenodo.org/communities/collections-track-disease/records)
+Cite CC-BY [Courtney Foat](https://courtney-foat.squarespace.com/#/visual-recording/) for any Digital Collections Data and Tracking Disease Workshop I graphics. See [Data, Infrastructure, Museum Collections and Expertise to Track Disease (DICE)](https://zenodo.org/communities/collections-track-disease/records) for more graphics, one for each talk presented.
 
-The
+The talks presented in our **museum perspectives** section of our Digital Collections Data and Tracking Disease Workshop II as captured and illustrated by Karina Branson.
 
 ![ConverSketch_ASM 2024_Museum Perspective_smaller](https://github.com/user-attachments/assets/da0351d4-243a-49b1-8d46-e04902d22d5b)
 
-
-Cite CC-BY Karina Branson and/or [ConverSketch](https://www.conversketch.com/) Digital Collections Data and Tracking Disease Workshop II
+Cite CC-BY Karina Branson and/or [ConverSketch](https://www.conversketch.com/) for any graphics from the Digital Collections Data and Tracking Disease Workshop II. See [Data, Infrastructure, Museum Collections and Expertise to Track Disease (DICE)](https://zenodo.org/communities/collections-track-disease/records) for more graphics, one for each talk presented.
 
 # Zenodo Archive Resources
 We archived all of our sessions, presentations, discussion and notes documents, and graphic recordings on Zenodo. Please note you can **cite** an individual product and/or the entire set of resources.
