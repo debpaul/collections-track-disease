@@ -72,7 +72,7 @@ From Wikidata:
 
 In our events, we wanted to capture our conversations visually. We used them to foster conversation and as tangible outcomes to facilitate a continued conversation through re-use (e. g. t-shirts, presentations, posters, reporting, etc). We envision they will provide valuable support in synthesizing the potential next-steps conversations. We share a few here and give you the links to all of them to use. You can find ALL of them in the Zenodo Community [Data, Infrastructure, Museum Collections and Expertise to Track Disease (DICE)](https://zenodo.org/communities/collections-track-disease/records)
 
-## Graphic Recording Examples
+## Graphic Recording Example I
 The summary **public health discussion** at our Digital Collections Data and Tracking Disease Workshop I as captured and illustrated by Courtney Foat. 
 
 ![Public_Health_Perspective](https://github.com/user-attachments/assets/5673e3ce-f23f-4048-8356-2c440fe8d061)
@@ -80,6 +80,7 @@ Foat, C. (2024). Graphic Illustration of Workshop Discussion Synthesis: A Public
 
 Cite CC-BY [Courtney Foat](https://courtney-foat.squarespace.com/#/visual-recording/) for any Digital Collections Data and Tracking Disease Workshop I graphics. See [Data, Infrastructure, Museum Collections and Expertise to Track Disease (DICE)](https://zenodo.org/communities/collections-track-disease/records) for more graphics, one for each talk presented.
 
+## Graphic Recording Example II
 The talks presented in our **museum perspectives** section of our Digital Collections Data and Tracking Disease Workshop II as captured and illustrated by Karina Branson.
 
 ![ConverSketch_ASM 2024_Museum Perspective_smaller](https://github.com/user-attachments/assets/da0351d4-243a-49b1-8d46-e04902d22d5b)
