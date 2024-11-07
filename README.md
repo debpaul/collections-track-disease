@@ -74,10 +74,10 @@ In our events, we wanted to capture our conversations visually. We used them to 
 
 ## Graphic Recording Examples
 The summary **public health discussion** at our Digital Collections Data and Tracking Disease Workshop I as illustrated by Courtney Foat. 
-https://zenodo.org/records/13905660 
-https://zenodo.org/api/iiif/record:13905660:Public_Health_Perspective.jpg/full/800,/0/default.jpg
 
-https://zenodo.org/records/13905660/files/Public_Health_Perspective.pdf?download=1
+![Public_Health_Perspective](https://github.com/user-attachments/assets/5673e3ce-f23f-4048-8356-2c440fe8d061)
+
+
 
 Cite CC-BY [Courtney Foat](https://courtney-foat.squarespace.com/#/visual-recording/) for Digital Collections Data and Tracking Disease Workshop I  
 Cite CC-BY Karina Branson and/or [ConverSketch](https://www.conversketch.com/) Digital Collections Data and Tracking Disease Workshop II
