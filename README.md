@@ -81,7 +81,7 @@ We archived all of our sessions, presentations, discussion and notes documents, 
 - Our Zenodo Community: [Data, Infrastructure, Museum Collections and Expertise to Track Disease (DICE)](https://zenodo.org/communities/collections-track-disease/records) where we've gathered all the products and you will find Citations with DOIs there for each.
 
 # Cite this GitHub Repository
-Soltis P, Paul DL, Thompson C, Foat C (2024). Outcomes of Grant: Infrastructure for Predicting, Understanding, and Mitigating Zoonotic Disease Outbreaks. Collections Track Disease. GitHub. https://github.com/debpaul/collections-track-disease
+Soltis P, Paul DL, Thompson C, Foat C, Branson K (2024). Outcomes of Grant: Infrastructure for Predicting, Understanding, and Mitigating Zoonotic Disease Outbreaks. Collections Track Disease. GitHub. https://github.com/debpaul/collections-track-disease
 
 
 
