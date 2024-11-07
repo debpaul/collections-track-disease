@@ -61,19 +61,22 @@ Abstract. The COVID-19 pandemic impacted our entire way of life, including how w
     - Deb Paul, Prairie Research Institute, Illinois Natural History Survey, Species File Group
 - Graphic Recordings by Karina Branson of [ConverSketch](https://www.conversketch.com/)
 
-# Presentations
+# Related Presentations
 * Presentation and Paper at Biodiversity Information Standards (TDWG) 2020 Conference. Progress Out of a Pandemic: Global collections, data sharing, and changing standards of practice. Biodiversity Information Science and Standards. Paul DL, Soltis PS https://doi.org/10.3897/biss.4.59268
 * Presentation in [iDigBio Webinar Series (September 2020)](https://www.idigbio.org/content/taking-pulse-natural-history-collections-during-covid-19-where-are-we-now): Taking the Pulse of Natural History Collections During COVID-19: Where are we now? Covid-19: New Collaborations and New Opportunities. Pam Soltis
-* Viewpoint in BioScience
+* Viewpoint in a research journal (_in progress_)
 
 # Graphic Recording
 From Wikidata: 
-> [Graphic recording](https://en.wikipedia.org/wiki/Graphic_facilitation) is used to create visual summaries of meeting dialogue or conference speakers' presentations. Key skills of graphic recording include listening to people, thinking about what information is most important in what they have said, organizing the information in a way that can be communicated graphically, and drawing graphics that are visually and emotionally appealing.(Hogan C 2007).
+> [Graphic recording](https://en.wikipedia.org/wiki/Graphic_facilitation) is used to create visual summaries of meeting dialogue or conference speakers' presentations. Key skills of graphic recording include listening to people, thinking about what information is most important in what they have said, organizing the information in a way that can be communicated graphically, and drawing graphics that are visually and emotionally appealing. (Hogan C 2007).
 
-In our events, we wanted to capture our conversations visually. We used them to foster conversation and as tangible outcomes to facilitate a continued conversation through re-use (e. g. t-shirts, presentations, posters, etc). We envision they will provide valuable support in synthesizing the next-steps conversations. We share a few here and give you the links to all of them to use.
+In our events, we wanted to capture our conversations visually. We used them to foster conversation and as tangible outcomes to facilitate a continued conversation through re-use (e. g. t-shirts, presentations, posters, reporting, etc). We envision they will provide valuable support in synthesizing the potential next-steps conversations. We share a few here and give you the links to all of them to use.
 
 Cite CC-BY [Courtney Foat](https://courtney-foat.squarespace.com/#/visual-recording/) for Digital Collections Data and Tracking Disease Workshop I  
 Cite CC-BY Karina Branson and/or [ConverSketch](https://www.conversketch.com/) Digital Collections Data and Tracking Disease Workshop II
+
+# Zenodo Archive Resources
+We archived all of our sessions, presentations, discussion and notes documents, and graphic recordings on Zenodo. You can cite an individual product or the entire set of resources.
 
 
 
