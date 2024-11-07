@@ -85,7 +85,7 @@ The talks presented in our **museum perspectives** section of our Digital Collec
 
 ![ConverSketch_ASM 2024_Museum Perspective_smaller](https://github.com/user-attachments/assets/da0351d4-243a-49b1-8d46-e04902d22d5b)
 
-Cite CC-BY Karina Branson and/or [ConverSketch](https://www.conversketch.com/) for any graphics from the Digital Collections Data and Tracking Disease Workshop II. See [Data, Infrastructure, Museum Collections and Expertise to Track Disease (DICE)](https://zenodo.org/communities/collections-track-disease/records) for more graphics, one for each talk presented.
+Cite CC-BY Karina Branson and/or [ConverSketch](https://www.conversketch.com/) for any graphics from the Digital Collections Data and Tracking Disease Workshop II. See [Data, Infrastructure, Museum Collections and Expertise to Track Disease (DICE)](https://zenodo.org/communities/collections-track-disease/records) for more graphics, one for each section of our workshop.
 
 # Zenodo Archive Resources
 We archived all of our sessions, presentations, discussion and notes documents, and graphic recordings on Zenodo. Please note you can **cite** an individual product and/or the entire set of resources.
