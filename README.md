@@ -78,6 +78,8 @@ Cite CC-BY Karina Branson and/or [ConverSketch](https://www.conversketch.com/) D
 # Zenodo Archive Resources
 We archived all of our sessions, presentations, discussion and notes documents, and graphic recordings on Zenodo. You can cite an individual product or the entire set of resources.
 
+- Our Zenodo Community: [Data, Infrastructure, Museum Collections and Expertise to Track Disease (DICE)](https://zenodo.org/communities/collections-track-disease/records) where we've gathered all the products and you will find Citations with DOIs there for each.
+
 
 
 
