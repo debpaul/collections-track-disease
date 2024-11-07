@@ -76,10 +76,12 @@ Cite CC-BY [Courtney Foat](https://courtney-foat.squarespace.com/#/visual-record
 Cite CC-BY Karina Branson and/or [ConverSketch](https://www.conversketch.com/) Digital Collections Data and Tracking Disease Workshop II
 
 # Zenodo Archive Resources
-We archived all of our sessions, presentations, discussion and notes documents, and graphic recordings on Zenodo. You can cite an individual product or the entire set of resources.
+We archived all of our sessions, presentations, discussion and notes documents, and graphic recordings on Zenodo. Please note you can **cite** an individual product and/or the entire set of resources.
 
 - Our Zenodo Community: [Data, Infrastructure, Museum Collections and Expertise to Track Disease (DICE)](https://zenodo.org/communities/collections-track-disease/records) where we've gathered all the products and you will find Citations with DOIs there for each.
 
+# Cite this GitHub Repository
+Soltis P, Paul DL, Thompson C, Foat C (2024). Outcomes of Grant: Infrastructure for Predicting, Understanding, and Mitigating Zoonotic Disease Outbreaks. Collections Track Disease. GitHub. https://github.com/debpaul/collections-track-disease
 
 
 
