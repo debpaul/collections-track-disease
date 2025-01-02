@@ -90,7 +90,7 @@ Cite CC-BY Karina Branson and/or [ConverSketch](https://www.conversketch.com/) f
 # Zenodo Archive Resources
 We archived all of our sessions, presentations, discussion and notes documents, and graphic recordings on Zenodo. Please note you can **cite** an individual product and/or the entire set of resources.
 
-- Our Zenodo Community: [Data, Infrastructure, Museum Collections and Expertise to Track Disease (DICE)](https://zenodo.org/communities/collections-track-disease/records) where we've gathered all the products and you will find Citations with DOIs there for each.
+- Our Zenodo Community: [Viral Muse: data, infrastructure, museum collections, and expertise to track disease](https://zenodo.org/communities/collections-track-disease/records) where we've gathered all the products and you will find Citations with DOIs there.
 
 # Cite this GitHub Repository
 Soltis P, Paul DL, Thompson C, Foat C, Branson K (2024). Outcomes of Grant: Infrastructure for Predicting, Understanding, and Mitigating Zoonotic Disease Outbreaks. Collections Track Disease. GitHub. https://github.com/debpaul/collections-track-disease
